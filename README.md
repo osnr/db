@@ -1,5 +1,9 @@
 # db
 
+**This repo is now dead. Subsumed into [osnr/folk2 branch](https://github.com/FolkComputer/folk/tree/osnr/folk2) on [FolkComputer/folk](https://github.com/FolkComputer/folk).**
+
+-----
+
 ```
 $ cd vendor/jimtcl && ./configure CFLAGS=-g && cd -
 $ make deps
